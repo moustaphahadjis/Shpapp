@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ShpApp.loginpage">
+    <ContentPage.Content>
+        
+        <StackLayout BackgroundColor="#07575b">
+
+            <!--ImageButton Source="welcome.png" VerticalOptions="Center" BackgroundColor="Black"/-->
+
+
+
+                <StackLayout VerticalOptions="FillAndExpand"  BackgroundColor="White" Padding="10" Margin="20,0,20,0" >
+                
+                <Entry x:Name="EmailAddress"  
+               Placeholder="Email Adress"
+               TextColor="Black"
+               Margin="10"
+                     />
+
+                <Entry x:Name="Password" 
+               Placeholder="Password" 
+               IsPassword="True"
+               TextColor="Black"
+               Margin="10"
+                       />
+
+                <Button Text="Submit" 
+                Clicked="Submit"  
+                BackgroundColor="#00b894" 
+                CornerRadius="10"
+                Margin="20,10,20,30"
+                        />
+
+                <Label Text="Don't have an account?" 
+               TextColor="Black" 
+               FontSize="20" 
+               HorizontalTextAlignment="Center"
+                        />
+
+                <Button Text="Create an Account now" 
+                Clicked="CreateAccount" 
+                
+                BackgroundColor="#00b894"
+                 CornerRadius="10"
+                 Margin="20,10,20,30"
+                         />
+                </StackLayout>
+            </StackLayout>
+       
+    </ContentPage.Content>
+</ContentPage>

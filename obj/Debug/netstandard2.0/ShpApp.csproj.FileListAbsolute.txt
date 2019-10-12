@@ -1,0 +1,15 @@
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\NewAccount.xaml.g.cs
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\ShpApp.AssemblyInfoInputs.cache
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\ShpApp.AssemblyInfo.cs
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\ShpApp.dll
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\ShpApp.pdb
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\bin\Debug\netstandard2.0\ShpApp.deps.json
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\bin\Debug\netstandard2.0\ShpApp.dll
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\bin\Debug\netstandard2.0\ShpApp.pdb
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\ShpApp.csprojAssemblyReference.cache
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\loginpage.xaml.g.cs
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\bin\Debug\netstandard2.0\ShpApp.dll.config
+C:\Users\Moustapha\source\repos\ShpApp\ShpApp\ShpApp\obj\Debug\netstandard2.0\FoodMenu.xaml.g.cs

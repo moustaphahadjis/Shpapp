@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ShpApp.NewAccount" Title="Create new Account" >
+    <ScrollView>
+        <StackLayout BackgroundColor="#07575b">
+
+
+
+
+            <StackLayout VerticalOptions="FillAndExpand"  BackgroundColor="White" Padding="10" Margin="20,0,20,0" >
+
+                <Entry x:Name="GivenName"  
+               Placeholder="Given Name"
+               TextColor="Black"
+               Margin="10"/>
+                <Entry x:Name="FamilyName"  
+               Placeholder="Family Name"
+               TextColor="Black"
+               Margin="10"/>
+            <Entry x:Name="NewEmail"  
+               Placeholder="Email"
+                   
+               TextColor="Black"
+               Margin="10"/>
+            <Entry x:Name="NewPassword"  
+               Placeholder="New Password"
+                   IsPassword="True"
+               TextColor="Black"
+               Margin="10"/>
+            <Entry x:Name="ConfirmPassword"  
+               Placeholder="Confirm Password"
+                   IsPassword="True"
+               TextColor="Black"
+               Margin="10"/>
+
+            <Button Text="Submit" 
+                Clicked="Creating"  
+                BackgroundColor="#00b894" 
+                CornerRadius="10"
+                Margin="20,10,20,30"/>
+        
+
+    </StackLayout>
+       
+    </StackLayout>
+    </ScrollView>
+
+</ContentPage>
